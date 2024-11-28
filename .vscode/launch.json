@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonalDairyApplication<personal-dairy>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dairy.personal_dairy.PersonalDairyApplication",
+            "projectName": "personal-dairy",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
